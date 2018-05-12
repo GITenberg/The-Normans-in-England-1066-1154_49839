@@ -1,4 +1,5 @@
 _repo: The-Normans-in-England-1066-1154_49839
+_version: 0.1.0
 contributor:
   creator:
     editors:
@@ -8,12 +9,17 @@ contributor:
     - agent_name: Winbolt, S. E.
       gutenberg_agent_id: '45567'
       url: http://www.gutenberg.org/2009/agents/45567
+covers:
+- cover_type: archival
+  image_path: 49839-h/images/cover.jpg
 creator:
   author:
     agent_name: Bland, A. E.
     gutenberg_agent_id: '42068'
     url: http://www.gutenberg.org/2009/agents/42068
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49839#The-Normans-in-England-1066-1154
 gutenberg_issued: '2015-08-31'
 gutenberg_type: Text
 identifiers:
